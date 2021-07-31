@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dezande-2/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dezande-2/static/js/main.771575d3.chunk.js",
+    "main.js.map": "/dezande-2/static/js/main.771575d3.chunk.js.map",
+    "runtime-main.js": "/dezande-2/static/js/runtime-main.e7086e11.js",
+    "runtime-main.js.map": "/dezande-2/static/js/runtime-main.e7086e11.js.map",
+    "static/js/2.c2ffedc7.chunk.js": "/dezande-2/static/js/2.c2ffedc7.chunk.js",
+    "static/js/2.c2ffedc7.chunk.js.map": "/dezande-2/static/js/2.c2ffedc7.chunk.js.map",
+    "static/js/3.21820352.chunk.js": "/dezande-2/static/js/3.21820352.chunk.js",
+    "static/js/3.21820352.chunk.js.map": "/dezande-2/static/js/3.21820352.chunk.js.map",
+    "index.html": "/dezande-2/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dezande-2/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c2ffedc7.chunk.js.LICENSE.txt": "/dezande-2/static/js/2.c2ffedc7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dezande-2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7086e11.js",
+    "static/js/2.c2ffedc7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.771575d3.chunk.js"
+  ]
+}
